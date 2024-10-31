@@ -5,14 +5,20 @@
 ### Table of Contents
 
 - [Introduction](introduction)
-Data Analysis Queries and Results
-2.1 State with the Highest Number of Orders
-2.2 Total Revenue Generated per State
-2.3 Average Order Value per State
-2.4 Trends Between Product Categories and States
-2.5 State with the Highest Number of Unique Customers
-Insights
-Professional Recommendations
+- [Data Analysis Queries and Results](data-analysis-queries-and-results)
+
+   [State with the Highest Number of Orders](state-with-the-highest-number-of-orders)
+
+   [Total Revenue Generated per State](total-revenue-generated-per-state)
+
+   [Average Order Value per State](average-order-value-per-state)
+
+  [Trends Between Product Categories and States](trens-between-product-categories-and-states)
+
+   [State with the Highest Number of Unique Customers](state-with-the-highest-number-of-unique-customers)
+
+- [Insights](insights)
+- [Recommendations](recommendations)
 
 
 
@@ -184,7 +190,7 @@ Unique Customers: 98
 - Customer Density: States with the highest concentration of unique customers are potential markets for loyalty programs and customer engagement efforts.
 
 
-## Professional Recommendations
+## Recommendations
 
 - Resource Allocation and Logistics: Based on the states with the highest order volumes, consider allocating additional resources, such as warehouse facilities or distribution centers, to optimize delivery times and reduce shipping costs.
 
